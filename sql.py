@@ -1,3 +1,6 @@
+# ==========> pleas read the README file first to know how this code works 
+
+# ==========> Lab`s <===========
 import mysql.connector
 from rich import print as pr
 from platform import system
